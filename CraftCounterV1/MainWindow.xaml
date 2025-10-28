@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label Content="Craft Counter v.1.0" HorizontalAlignment="Center" Height="40" Margin="0,50,0,0" VerticalAlignment="Top" Width="500" FontFamily="Garamond" FontSize="36" HorizontalContentAlignment="Center"/>
+        <Label Content="~ A multiool for keeping count and managing your resources. Except for sanity, you're on your own there. ~" HorizontalAlignment="Center" Height="37" Margin="0,105,0,0" VerticalAlignment="Top" Width="500" FontFamily="Garamond" FontSize="12" HorizontalContentAlignment="Center"/>
+        <TextBox TextWrapping="Wrap" Text="TextBox" Width="120"/>
 
     </Grid>
 </Window>
